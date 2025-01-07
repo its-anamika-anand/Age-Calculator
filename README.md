@@ -29,7 +29,7 @@ Steps
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/its-anamika-anand/Age-Calculator.git
 
 Navigate to the project directory:
 
